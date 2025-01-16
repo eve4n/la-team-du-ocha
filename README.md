@@ -2,15 +2,9 @@
 - ?
 - ?
 - ?
-- ?
-- ?
-- ?
-- ?
-- ?
-- ?
-- ?
 # Questions 
 - a quoi sert ce groupe ?
-- pourquoi ce groipe a été crée ?
+- pourquoi ce groupe a été crée ? 
 - qui est moi ?
 - pourquoi tout ?
+- 
